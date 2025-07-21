@@ -33,7 +33,7 @@
     "@radix-ui/react-tooltip": "^1.2.7",
     "@supabase/ssr": "^0.6.1",
     "@supabase/supabase-js": "^2.50.2",
-    "@tabler/icons-react": "^3.34.0",
+    "@tabler/icons-react": "^3.34.1",
     "@tanstack/react-table": "^8.21.3",
     "@types/uuid": "^10.0.0",
     "@use-gesture/react": "^10.3.1",
